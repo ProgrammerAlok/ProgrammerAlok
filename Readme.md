@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/alok__paul" target="blank"><img src="https://img.shields.io/twitter/follow/alok__paul?logo=twitter&style=for-the-badge" alt="alok__paul" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://alokpaul-portfolio.vercel.app/](https://alokpaul-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://programmeralok.tech/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **alok.paul.exe@gmail.com**
 
-- 📄 Know about my experiences [https://alokpaul-portfolio.vercel.app/](https://alokpaul-portfolio.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://programmeralok.tech/)
 
 - ⚡ Fun fact **I think i am funny**
 
