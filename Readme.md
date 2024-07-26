@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **alok.paul.exe@gmail.com**
+- 📫 How to reach me **alokpaul5584@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://programmeralok.tech/)
 
